@@ -1,4 +1,4 @@
-markdown
+
 # 🎓 StudentUniverse: Many-to-Many Enrollment System
 
 **StudentUniverse** is a Python-based implementation of a complex Many-to-Many (N:M) relationship between Students and Courses. Built with **Object-Oriented Programming (OOP)** principles, it utilizes a **Join Class (Associative Entity)** architecture to manage bidirectional data and metadata tracking.
