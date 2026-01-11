@@ -16,16 +16,17 @@
    ```bash
    git clone https://github.com/winnieotieno770/many-to-many-uni-central.git
    cd mamy-to-many-uni-central
-Use code with caution.
 
-Run the script:
-bash
-python enrollment_system.py
-Use code with caution.
+   Run the script:
+   ```bash
+   python3 main.py 
 
-Usage Example
-python
-from enrollment_system import Student, Course
+
+
+Usage Example (Open  python shell on terminal)
+```
+python3
+from main import Student, Course
 
 # 1. Initialize data entities
 s1 = Student("Jamie")
